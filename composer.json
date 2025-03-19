@@ -2,7 +2,7 @@
     "name": "fishpig/magento2-remove-admin-notification",
     "description": "Remove the Magento_AdminNotification module.",
     "type": "project",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "autoload": {
         "psr-4": {
             "Magento\\AdminNotification\\": "Mock/Magento/AdminNotification"
